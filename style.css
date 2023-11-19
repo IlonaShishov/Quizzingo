@@ -22,7 +22,7 @@ p {
     justify-content: center;
 }
 
-.actions button {
+.actions button, .audio button {
     padding: 8px 16px;
     font-size: 30px;
     border-radius: 10px;

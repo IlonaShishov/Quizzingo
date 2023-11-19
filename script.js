@@ -2,6 +2,7 @@ const gridContainer = document.querySelector(".grid-container");
 let cards = [];
 let greenScore = 0;
 let blueScore = 0;
+let audioState = 0;
 
 document.querySelector(".greenScore").textContent = greenScore;
 document.querySelector(".blueScore").textContent = blueScore;
@@ -71,7 +72,6 @@ function updateScore(element) {
   }
 }
 
-
 function restart() {
   greenScore = 0;
   blueScore = 0;
@@ -79,4 +79,17 @@ function restart() {
   document.querySelector(".blueScore").textContent = blueScore;
   gridContainer.innerHTML = "";
   generateCards();
+}
+
+function playPause() {
+  if(audioState == 0) {
+    audioState = 1;
+    document.getElementById('audio').play();
+    document.getElementById('audio').volume = 0.3;
+    document.getElementById('playPauseBtn').innerHTML = "Pause &#9208;";
+  } else {
+    audioState = 0;
+    document.getElementById('audio').pause();
+    document.getElementById('playPauseBtn').innerHTML = "Play &#9658;";
+  }
 }

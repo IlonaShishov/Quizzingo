@@ -1,127 +1,127 @@
 [
     {
         "level": "1",
-        "subject": "cats",
-        "question": "what is Alex's cat's name? and i love cats so much i will talk about them alot?"
+        "subject": "Infrastructure",
+        "question": "What is the difference between Authorization and Authentication?"
+    },
+    {
+        "level": "2",
+        "subject": "Infrastructure",
+        "question": "What is the difference between horizontal scaling and vertical scaling in terms of infrastructure?"
+    },
+    {
+        "level": "3",
+        "subject": "Openshift",
+        "question": "Which cloud providers allow you to deploy a hosted OpenShift cluster, name 3 providers?"
+    },
+    {
+        "level": "4",
+        "subject": "Algorithms",
+        "question": "What is the primary goal of a consensus algorithm in distributed systems?"
+    },
+    {
+        "level": "5",
+        "subject": "Infrastructure",
+        "question": "What would you use the skopeo tool for?"
+    },
+    {
+        "level": "2",
+        "subject": "AWS",
+        "question": "What AWS service provides scalable object storage in the cloud?"
+    },
+    {
+        "level": "3",
+        "subject": "Openshift",
+        "question": "Which tool would you use to install OpenShift 3.x?"
+    },
+    {
+        "level": "4",
+        "subject": "AMQ Streams",
+        "question": "In AMQ Streams, what is the Operator responsible for?"
+    },
+    {
+        "level": "5",
+        "subject": "Red Hat",
+        "question": "Which tool would you use to optimize plans and schedules like vehicle routing or employee rostering?"
     },
     {
         "level": "1",
-        "subject": "cats",
-        "question": "what is Alex's cat's name?"
+        "subject": "Cats",
+        "question": "What is Alejandro’s cat's name?"
+    },
+    {
+        "level": "3",
+        "subject": "Algorithms",
+        "question": "What is the time complexity of a binary search algorithm?"
+    },
+    {
+        "level": "4",
+        "subject": "Infrastructure",
+        "question": "What is the network address in decimal format for 192.168.123.132/25?"
+    },
+    {
+        "level": "5",
+        "subject": "Bzzz...",
+        "question": "FREE-BEE!!!, enjoy ;)"
     },
     {
         "level": "1",
-        "subject": "cats",
-        "question": "what is Alex's cat's name?"
+        "subject": "Red Hat",
+        "question": "What is the upstream name of Red Hat Single Sign-On?"
+    },
+    {
+        "level": "2",
+        "subject": "HTTP",
+        "question": "In HTTP, what does a 401 error code signify?"
+    },
+    {
+        "level": "4",
+        "subject": "Openshift",
+        "question": "What is odo?"
+    },
+    {
+        "level": "5",
+        "subject": "Programming Languages",
+        "question": "What’s the difference between a stub and a mock?"
     },
     {
         "level": "1",
-        "subject": "cats",
-        "question": "what is Alex's cat's name?"
+        "subject": "Geography",
+        "question": "Which country is the southern most point of Mainland Europe?"
+    },
+    {
+        "level": "2",
+        "subject": "Geography",
+        "question": "Which country is known as the Land of the Rising Sun?"
+    },
+    {
+        "level": "3",
+        "subject": "Red Hat",
+        "question": "What’s the upstream name of Red Hat Data Grid?"
+    },
+    {
+        "level": "5",
+        "subject": "Keycloak",
+        "question": "what is MFA in Single Sign-On?"
     },
     {
         "level": "1",
-        "subject": "cats",
-        "question": "what is Alex's cat's name?"
+        "subject": "Space",
+        "question": "How many planets are there in our solar system?"
     },
     {
-        "level": "1",
-        "subject": "cats",
-        "question": "what is Alex's cat's name?"
+        "level": "2",
+        "subject": "GitHub",
+        "question": "What GitHub feature allows you to apply specific commits from one branch to another without merging the entire branch's history?"
     },
     {
-        "level": "1",
-        "subject": "cats",
-        "question": "what is Alex's cat's name?"
+        "level": "3",
+        "subject": "Kubernetes",
+        "question": "What Kubernetes object allows users to define a set of rules for routing external traffic to services within the cluster?"
     },
     {
-        "level": "1",
-        "subject": "cats",
-        "question": "what is Alex's cat's name?"
-    },
-    {
-        "level": "1",
-        "subject": "cats",
-        "question": "what is Alex's cat's name?"
-    },
-    {
-        "level": "1",
-        "subject": "cats",
-        "question": "what is Alex's cat's name?"
-    },
-    {
-        "level": "1",
-        "subject": "cats",
-        "question": "what is Alex's cat's name?"
-    },
-    {
-        "level": "1",
-        "subject": "cats",
-        "question": "what is Alex's cat's name?"
-    },
-    {
-        "level": "1",
-        "subject": "cats",
-        "question": "what is Alex's cat's name?"
-    },
-    {
-        "level": "1",
-        "subject": "cats",
-        "question": "what is Alex's cat's name?"
-    },
-    {
-        "level": "1",
-        "subject": "cats",
-        "question": "what is Alex's cat's name?"
-    },
-    {
-        "level": "1",
-        "subject": "cats",
-        "question": "what is Alex's cat's name?"
-    },
-    {
-        "level": "1",
-        "subject": "cats",
-        "question": "what is Alex's cat's name?"
-    },
-    {
-        "level": "1",
-        "subject": "cats",
-        "question": "what is Alex's cat's name?"
-    },
-    {
-        "level": "1",
-        "subject": "cats",
-        "question": "what is Alex's cat's name?"
-    },
-    {
-        "level": "1",
-        "subject": "cats",
-        "question": "what is Alex's cat's name?"
-    },
-    {
-        "level": "1",
-        "subject": "cats",
-        "question": "what is Alex's cat's name?"
-    },
-    {
-        "level": "1",
-        "subject": "cats",
-        "question": "what is Alex's cat's name?"
-    },
-    {
-        "level": "1",
-        "subject": "cats",
-        "question": "what is Alex's cat's name?"
-    },
-    {
-        "level": "1",
-        "subject": "cats",
-        "question": "what is Alex's cat's name?"
-    },
-    {
-        "level": "1",
-        "subject": "cats",
-        "question": "what is Alex's cat's name?"
-    }    
+        "level": "4",
+        "subject": "Programming Languages",
+        "question": "In Go, what is the purpose of the defer statement?"
+    }
 ]

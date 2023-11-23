@@ -18,8 +18,10 @@ p {
 }
 
 .actions {
-    display: flex;
-    justify-content: center;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 30px 0px;
 }
 
 .actions button, .audio button {
@@ -81,11 +83,37 @@ p {
   background-color: blue !important;
 }
 
+.blackTeam {
+  background-color: black !important;
+}
+
 .score-container {
   display: flex;
   justify-content: center;
+  margin-left: 100px;
 }
 
 .greenScore, .blueScore {
   margin: 0px 30px 0px 0px;
 }
+
+#blackScore {
+  font-family: 'Metal Mania';font-size: 30px;
+}
+
+#timer {
+  font-size: 50px;
+}
+
+.play-timer-wrapper {
+  display: flex;
+  align-items: center;
+  order: 3; /* Push the play button and timer to the right */
+}
+.container {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start; /* Align items at the top */
+  flex-wrap: wrap; /* Allow wrapping if needed */
+}
+
